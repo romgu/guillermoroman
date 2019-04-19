@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/js/runtime~main.3af3eb3e.js"
   },
   {
-    "revision": "90f15cc7956f0ac19f62",
+    "revision": "e56d2f49c6e029648cb2",
     "url": "/guillermoroman/static/js/main.7c21d0e4.chunk.js"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/js/2.d0b9161b.chunk.js"
   },
   {
-    "revision": "90f15cc7956f0ac19f62",
-    "url": "/guillermoroman/static/css/main.e24e5276.chunk.css"
+    "revision": "e56d2f49c6e029648cb2",
+    "url": "/guillermoroman/static/css/main.0a26949a.chunk.css"
   },
   {
     "revision": "a096c6eb4cdd5b8075c0",
     "url": "/guillermoroman/static/css/2.c212a55c.chunk.css"
   },
   {
-    "revision": "9b01dc2fe4bafa099f26aa1a8749b320",
+    "revision": "90a4d74e6d535e5415bc8c059e919a64",
     "url": "/guillermoroman/index.html"
   }
 ];
