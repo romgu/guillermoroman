@@ -1,16 +1,16 @@
 {
-  "main.css": "/guillermoroman/static/css/main.c4c3aacc.chunk.css",
-  "main.js": "/guillermoroman/static/js/main.f8c569a1.chunk.js",
-  "main.js.map": "/guillermoroman/static/js/main.f8c569a1.chunk.js.map",
+  "main.css": "/guillermoroman/static/css/main.bf53b3fe.chunk.css",
+  "main.js": "/guillermoroman/static/js/main.78d7a936.chunk.js",
+  "main.js.map": "/guillermoroman/static/js/main.78d7a936.chunk.js.map",
   "runtime~main.js": "/guillermoroman/static/js/runtime~main.3af3eb3e.js",
   "runtime~main.js.map": "/guillermoroman/static/js/runtime~main.3af3eb3e.js.map",
   "static/css/2.c212a55c.chunk.css": "/guillermoroman/static/css/2.c212a55c.chunk.css",
   "static/js/2.c6061e2b.chunk.js": "/guillermoroman/static/js/2.c6061e2b.chunk.js",
   "static/js/2.c6061e2b.chunk.js.map": "/guillermoroman/static/js/2.c6061e2b.chunk.js.map",
   "index.html": "/guillermoroman/index.html",
-  "precache-manifest.9c804429754ddb550e5138a192b44701.js": "/guillermoroman/precache-manifest.9c804429754ddb550e5138a192b44701.js",
+  "precache-manifest.b9ef0b50aba3ab993afc38aa2f4339b1.js": "/guillermoroman/precache-manifest.b9ef0b50aba3ab993afc38aa2f4339b1.js",
   "service-worker.js": "/guillermoroman/service-worker.js",
   "static/css/2.c212a55c.chunk.css.map": "/guillermoroman/static/css/2.c212a55c.chunk.css.map",
-  "static/css/main.c4c3aacc.chunk.css.map": "/guillermoroman/static/css/main.c4c3aacc.chunk.css.map",
+  "static/css/main.bf53b3fe.chunk.css.map": "/guillermoroman/static/css/main.bf53b3fe.chunk.css.map",
   "static/media/App.css": "/guillermoroman/static/media/Gilroy-Light.c62aded7.otf"
 }
