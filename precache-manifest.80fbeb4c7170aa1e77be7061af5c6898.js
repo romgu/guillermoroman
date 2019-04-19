@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
-    "url": "/guillermoroman/static/media/Gilroy-ExtraBold.0f6e082f.otf"
+    "revision": "c62aded729bf7146d491275e5019d7fc",
+    "url": "/guillermoroman/static/media/Gilroy-Light.c62aded7.otf"
   },
   {
-    "revision": "cbba3b12cd9b5ba3197f",
+    "revision": "2fc2a14cec5b56744d5b",
     "url": "/guillermoroman/static/css/main.8f9fde89.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/js/2.c4a4663f.chunk.js"
   },
   {
-    "revision": "c62aded729bf7146d491275e5019d7fc",
-    "url": "/guillermoroman/static/media/Gilroy-Light.c62aded7.otf"
+    "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
+    "url": "/guillermoroman/static/media/Gilroy-ExtraBold.0f6e082f.otf"
   },
   {
-    "revision": "cbba3b12cd9b5ba3197f",
-    "url": "/guillermoroman/static/js/main.b767bb1c.chunk.js"
+    "revision": "2fc2a14cec5b56744d5b",
+    "url": "/guillermoroman/static/js/main.28512872.chunk.js"
   },
   {
     "revision": "bf1e2b9be7c02a32e3fbe575d2bc75e7",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/css/2.c212a55c.chunk.css"
   },
   {
-    "revision": "89366b7243cde656862c3a4ddd1204a4",
+    "revision": "21e98992cdf2d8d1ea8bf22ea64a9438",
     "url": "/guillermoroman/index.html"
   }
 ];
