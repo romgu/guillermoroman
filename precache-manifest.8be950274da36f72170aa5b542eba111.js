@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/media/Gilroy-Light.c62aded7.otf"
   },
   {
-    "revision": "f168e512ee2b97f353af",
+    "revision": "ffeb57223ce5fb03067d",
     "url": "/guillermoroman/static/css/main.1cdeaf89.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/media/MatchingGame.c0d70f2c.png"
   },
   {
-    "revision": "1592f564362b9d82615f",
-    "url": "/guillermoroman/static/js/2.c4a4663f.chunk.js"
+    "revision": "08891216f2d8e63aba20",
+    "url": "/guillermoroman/static/js/2.0b06e74b.chunk.js"
   },
   {
     "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
     "url": "/guillermoroman/static/media/Gilroy-ExtraBold.0f6e082f.otf"
   },
   {
-    "revision": "f168e512ee2b97f353af",
-    "url": "/guillermoroman/static/js/main.62c8ada3.chunk.js"
+    "revision": "ffeb57223ce5fb03067d",
+    "url": "/guillermoroman/static/js/main.f656349f.chunk.js"
   },
   {
     "revision": "bf1e2b9be7c02a32e3fbe575d2bc75e7",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/guillermoroman/static/media/weathery.6d08a64c.png"
   },
   {
-    "revision": "1592f564362b9d82615f",
+    "revision": "08891216f2d8e63aba20",
     "url": "/guillermoroman/static/css/2.c212a55c.chunk.css"
   },
   {
-    "revision": "1d9ad30cbbc3fa0445ad3129cc771d00",
+    "revision": "a390decc354e709a5b9d4c462e96b2ad",
     "url": "/guillermoroman/index.html"
   }
 ];
