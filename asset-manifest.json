@@ -1,14 +1,14 @@
 {
   "main.css": "/guillermoroman/static/css/main.edeb7619.chunk.css",
-  "main.js": "/guillermoroman/static/js/main.0f7b1e79.chunk.js",
-  "main.js.map": "/guillermoroman/static/js/main.0f7b1e79.chunk.js.map",
+  "main.js": "/guillermoroman/static/js/main.0791158b.chunk.js",
+  "main.js.map": "/guillermoroman/static/js/main.0791158b.chunk.js.map",
   "runtime~main.js": "/guillermoroman/static/js/runtime~main.3af3eb3e.js",
   "runtime~main.js.map": "/guillermoroman/static/js/runtime~main.3af3eb3e.js.map",
   "static/css/2.c212a55c.chunk.css": "/guillermoroman/static/css/2.c212a55c.chunk.css",
-  "static/js/2.fc935ca5.chunk.js": "/guillermoroman/static/js/2.fc935ca5.chunk.js",
-  "static/js/2.fc935ca5.chunk.js.map": "/guillermoroman/static/js/2.fc935ca5.chunk.js.map",
+  "static/js/2.dc1b0d7f.chunk.js": "/guillermoroman/static/js/2.dc1b0d7f.chunk.js",
+  "static/js/2.dc1b0d7f.chunk.js.map": "/guillermoroman/static/js/2.dc1b0d7f.chunk.js.map",
   "index.html": "/guillermoroman/index.html",
-  "precache-manifest.9c882be8ce22b1f67bd5829bf274209f.js": "/guillermoroman/precache-manifest.9c882be8ce22b1f67bd5829bf274209f.js",
+  "precache-manifest.7cf052e2b0c37f900ab472719bc1d6c6.js": "/guillermoroman/precache-manifest.7cf052e2b0c37f900ab472719bc1d6c6.js",
   "service-worker.js": "/guillermoroman/service-worker.js",
   "static/css/2.c212a55c.chunk.css.map": "/guillermoroman/static/css/2.c212a55c.chunk.css.map",
   "static/css/main.edeb7619.chunk.css.map": "/guillermoroman/static/css/main.edeb7619.chunk.css.map",
@@ -16,5 +16,5 @@
   "static/media/MatchingGame.png": "/guillermoroman/static/media/MatchingGame.c0d70f2c.png",
   "static/media/smartBrain.png": "/guillermoroman/static/media/smartBrain.0943f82e.png",
   "static/media/veru.png": "/guillermoroman/static/media/veru.3a3dd8eb.png",
-  "static/media/weathery.png": "/guillermoroman/static/media/weathery.6d08a64c.png"
+  "static/media/veru2.png": "/guillermoroman/static/media/veru2.3e849f44.png"
 }
